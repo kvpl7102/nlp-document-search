@@ -1,4 +1,4 @@
-# IFT2015---TP2
+# IFT2015-TP2
 TP2 for course IFT2015 - Data Structures at UDEM
 
 This project implements 2 custom HashMap classes to serve basic Natural Language Processing (NLP) function. The 2 Map classes will store data from the dataset which contains numerous of text documents. 
